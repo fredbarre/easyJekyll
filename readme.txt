@@ -1,0 +1,1 @@
+This software is a better interface to help blog posting on jekyll pages for non coding user.

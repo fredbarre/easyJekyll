@@ -1,0 +1,11 @@
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\bin\Debug\netcoreapp3.1\EasyJekyll.exe
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\bin\Debug\netcoreapp3.1\EasyJekyll.deps.json
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\bin\Debug\netcoreapp3.1\EasyJekyll.runtimeconfig.json
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\bin\Debug\netcoreapp3.1\EasyJekyll.runtimeconfig.dev.json
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\bin\Debug\netcoreapp3.1\EasyJekyll.dll
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\bin\Debug\netcoreapp3.1\EasyJekyll.pdb
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\obj\Debug\netcoreapp3.1\EasyJekyll.csprojAssemblyReference.cache
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\obj\Debug\netcoreapp3.1\EasyJekyll.AssemblyInfoInputs.cache
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\obj\Debug\netcoreapp3.1\EasyJekyll.AssemblyInfo.cs
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\obj\Debug\netcoreapp3.1\EasyJekyll.dll
+G:\projet\c#\easyJekyll\EasyJekyll\EasyJekyll\obj\Debug\netcoreapp3.1\EasyJekyll.pdb
