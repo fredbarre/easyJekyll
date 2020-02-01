@@ -1,0 +1,13 @@
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\bin\Debug\Easyjekyll winapp.exe.config
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\bin\Debug\Easyjekyll winapp.exe
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\bin\Debug\Easyjekyll winapp.pdb
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll winapp.csprojAssemblyReference.cache
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll_winapp.Form1.resources
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll_winapp.Properties.Resources.resources
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll winapp.csproj.GenerateResource.cache
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll winapp.exe
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll winapp.pdb
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll_winapp.FormTitle.resources
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll_winapp.FormAddImage.resources
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll_winapp.FormIntro.resources
+G:\projet\c#\easyJekyll winforms\Easyjekyll winapp\Easyjekyll winapp\obj\Debug\Easyjekyll_winapp.FormShortcut.resources

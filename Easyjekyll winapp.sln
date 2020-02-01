@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easyjekyll winapp", "Easyjekyll winapp\Easyjekyll winapp.csproj", "{117C418B-80A4-424F-ABDC-964FC384FC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117C418B-80A4-424F-ABDC-964FC384FC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117C418B-80A4-424F-ABDC-964FC384FC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117C418B-80A4-424F-ABDC-964FC384FC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117C418B-80A4-424F-ABDC-964FC384FC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5FC64C4-C739-47A4-AC92-641BCF1B1393}
+	EndGlobalSection
+EndGlobal
